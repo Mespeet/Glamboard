@@ -11,8 +11,16 @@ export default {
 
     theme: {
         extend: {
+            colors: {
+                foreground: "#FFFFFF",
+                muted: "#999999",
+                background: "#232323",
+                highlight: "#8B2CF5",
+                accent: "#2C2C2C",
+                stroke: "#363637"
+            },
             fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                sans: ['Kanit', ...defaultTheme.fontFamily.sans],
             },
         },
     },
