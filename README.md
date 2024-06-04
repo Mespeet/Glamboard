@@ -19,3 +19,4 @@
 	```bash
 	https://localhost:9444
 	```
+   *When logging in you will be prompted to update the default password. Please keep in mind that you can create other users as well.*
