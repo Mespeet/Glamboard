@@ -1,1 +1,2 @@
-<p align="center">![Glamboard](https://github.com/Mespeet/Glamboard/blob/main/Docs/image.png?raw=true)</p>
+<p align="center">![logo](https://github.com/Mespeet/Glamboard/assets/70283394/7bccef83-a28d-483b-a70f-35353906a35e)
+)</p>
